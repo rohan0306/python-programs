@@ -1,0 +1,3 @@
+# using flag variable
+
+num
